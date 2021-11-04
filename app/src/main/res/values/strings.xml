@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HSTSMCNTRL</string>
+    <string name="refresh">Refresh</string>
+    <string name="light_2">Light 2</string>
+    <string name="house_status_contraller">House Status Contraller</string>
+    <string name="light_1">Light 1</string>
+    <string name="door_two">Door Two :</string>
+    <string name="door_one">Door One :</string>
+    <string name="light_two">Light Two :</string>
+    <string name="light_one">Light One :</string>
+</resources>
